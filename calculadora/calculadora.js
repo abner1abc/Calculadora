@@ -1,4 +1,4 @@
-alert('Bem vindo');
+alert('Bem vindo :)');
 
 function insert(num){
     var numero = document.getElementById('resultado').innerHTML;
